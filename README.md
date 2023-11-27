@@ -1,6 +1,7 @@
 # Shopping_trends_tableau
 
 ## Tableau Visualization
+[Link to Shopping Center Analysis Tableau Dashboard](https://public.tableau.com/app/profile/samir.aghalarov/viz/Shopping_center/Home)
 
 [Shopping Center Analysis](https://public.tableau.com/app/profile/samir.aghalarov/viz/Shopping_center/Home)
 
@@ -73,17 +74,14 @@ This dataset encompasses various features related to customer shopping preferenc
 
 ## File Structure
 
-- **/Data:**
+- **/assets:**
   - Contains datasets used in Tableau visualizations.
   
-- **/Tableau Visualizations:**
-  - **/Shopping_Center_Analysis:**
-    - Contains Tableau project files for analyzing shopping center data.
-    - [Link to Shopping Center Analysis Tableau Dashboard](https://public.tableau.com/app/profile/samir.aghalarov/viz/Shopping_center/Home)
-
-- **/Documentation:**
-  - **/Readme:**
-    - Contains documentation files, including project-specific README files.
+- **/notebooks:**
+    - Contains jupyter notebook for data analysis
+      
+- **/Sql queries:**
+    - Contains sql queries
 
 
 ## Usage
